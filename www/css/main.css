@@ -1,0 +1,30 @@
+body {
+    background: #222;
+    color: #fff;
+}
+
+img {
+    width: 250px;
+    margin: 0 auto;
+    display:block;
+}
+
+section {
+    width: 320px;
+    padding: 5px;
+    padding-top: 10%;
+    margin: 0 auto;
+}
+
+hgroup {
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25px;
+}
