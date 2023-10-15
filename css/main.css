@@ -1,6 +1,7 @@
 body {
     background: #222;
     color: #fff;
+    font-family: 'Major Mono Display', serif;
 }
 
 img {
@@ -18,7 +19,6 @@ section {
 
 hgroup {
     text-align: center;
-    font-family: 'Lora', serif;
 }
 
 h1 {
@@ -27,4 +27,20 @@ h1 {
 
 h2 {
     font-size: 25px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+nav ul {
+    list-style-type: none; 
+    font-size: 16px;
+    line-height: 200%;
+    padding: 0;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: underline;
 }
